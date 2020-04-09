@@ -24,7 +24,7 @@ module.exports = {
         data[message.guild.id][message.author.id] = {
             "username": message.author.username,
             "character": character.name,
-            "rollcount": data[message.guild.id][message.author.id] + 1
+            "rollcount": data[message.guild.id][message.author.id].rollcount + 1
         };
         fs.writeFileSync('./data/rolls.json', JSON.stringify(data, null, 4));
 
