@@ -6,7 +6,7 @@ const { MessageEmbed } = require('discord.js');
 
 module.exports = {
     name: 'test',
-    description: "I'M GONNA TEEEEEEESSSSSSSSTTTTT",
+    description: "I'M GONNA TEEEEEEESSSSSSSSTTTTT123",
     execute(message, args) {
 
         var data = JSON.parse(fs.readFileSync('./data/rolls.json'));
