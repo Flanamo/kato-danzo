@@ -8,6 +8,7 @@ module.exports = {
     name: 'write',
     description: 'IM GONNA WRIIIITE',
     execute(message) {
+
         var data = JSON.parse(fs.readFileSync('./data/rolls.json'));
         var character = chooseWeighted(characters);
 
@@ -19,5 +20,6 @@ module.exports = {
         "rollcount": 1
         };
         fs.writeFileSync('./data/rolls.json', JSON.stringify(data, null, 4));
+        message.channel.send('Saved ur roll bitch.')
     }
 };

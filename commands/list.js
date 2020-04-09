@@ -2,7 +2,7 @@ const fs  = require('fs');
 
 module.exports = {
     name: 'list',
-    description: 'list all characters',
+    description: "Lists all the characters & the series they're from",
     execute(message) {
         const characters = JSON.parse(fs.readFileSync('./characters.json'));
         const characterString = characters
