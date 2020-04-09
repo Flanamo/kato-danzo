@@ -1,0 +1,581 @@
+[
+    {
+        "name": "Pingu",
+        "source": "Pingu in the city",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=91492-pingu-dosmugen-pingupdate-ai-mulambo",
+        "image": "pingu.png",
+        "weight": 1
+    },
+    {
+        "name": "Kawakaze",
+        "source": "Azur Lane",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=105994-kawakaze-zeta",
+        "image": "kawakaze.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Jotaro",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=302-jotaro-kujo-warusaki3",
+        "image": "jotaro.gif",
+        "weight": 1
+    },
+    {
+        "name": "Black Rock Shooter",
+        "source": "Black Rock Shooter",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=14780-black-rock-shooter-nibanibaniniba",
+        "image": "Black%20Rock%20Shooter.png",
+        "weight": 1
+    },
+    {
+        "name": "Erika Furudo",
+        "source": "Umineko no Naku Koro ni",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=5467-erika-furudo-baggy",
+        "image": "Erika.png",
+        "weight": 1
+    },
+    {
+        "name": "Producer",
+        "source": "Idolmaster",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=12089-producer-haloveli",
+        "image": "producer.gif",
+        "weight": 1
+    },
+
+    {
+        "name": "Kamen Rider Gaim",
+        "source": "Kamen Rider",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=12904-kamen-rider-gaim-team-gaim",
+        "image": "Gaim.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Kamen Rider Blade",
+        "source": "Kamen Rider",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=106181-masked-rider-blade-asuka-masaki",
+        "image": "Blade.png",
+        "weight": 1
+    },
+    {
+        "name": "Galacta Knight",
+        "source": "Kirby",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=72642-galacta-knight-solarflared",
+        "image": "Galacta%20Knight.png",
+        "weight": 1
+    },
+    {
+        "name": "Sayaka Miki",
+        "source": "Puella Magi Madoka Magica",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=11507-miki-sayaka-annri",
+        "image": "Sayaka.png",
+        "weight": 1
+    },
+    {
+        "name": "Shredder",
+        "source": "Teenage Mutant Ninja Turtles",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=50832-shredder-dcat",
+        "image": "Shredder.gif",
+        "weight": 1
+    },
+    {
+        "name": "Shiki Tohno",
+        "source": "Tsukihime",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=63470-shiki-tohno-rouge-noir",
+        "image": "shiki.png",
+        "weight": 1
+    },
+    {
+        "name": "Labrys",
+        "source": "Persona 4 Arena",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=5264-labrys-sxvector",
+        "image": "Labrys.png",
+        "weight": 1
+    },
+    {
+        "name": "Takiyasya-hime",
+        "source": "Original Character based on Mythology",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=12127-takiyasya-hime-hodumi-miyabi",
+        "image": "Takiyasha.gif",
+        "weight": 1
+    },
+    {
+        "name": "Akame",
+        "source": "Akame Ga Kill!",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=10673-akame-ga-kill-antor-m",
+        "image": "akame.gif",
+        "weight": 1
+    },
+    {
+        "name": "RoboCop",
+        "source": "RoboCop",
+        "url": "https://kitsunes.moe/",
+        "image": "RoboCop.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Dr Doom",
+        "source": "The Fantastic Four",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=86989-the-real-dr-doom-mshr-infinite",
+        "image": "Dr%20Doom.png",
+        "weight": 1
+    },
+    {
+        "name": "Bernkastel & Lambdadelta",
+        "source": "Umineko no Naku Koro ni",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=53910-bernkastel-lambdadelta-hanyu-maru",
+        "image": "Bernkastel_Lambdadelta_98141.gif",
+        "weight": 1
+    },
+    {
+        "name": "Dark Matter",
+        "source": "Kirby",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=102504-dark-matter-waniwani",
+        "image": "darkmatter.gif",
+        "weight": 1
+    },
+    {
+        "name": "Skeletor",
+        "source": "He-Man",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=98123-ai-patch-for-skeletor-bobafett",
+        "image": "Skeletor.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Shadow Blade",
+        "source": "Title Mitei DS",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=12888-shadow-blade-",
+        "image": "Shadow%20Blade.gif",
+        "weight": 1
+    },
+    {
+        "name": "Selvaria Bles",
+        "source": "Valkyria Chronicles",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=49581-selvaria-bles-kohaku",
+        "image": "Selvaria.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Vergil",
+        "source": "Devil May Cry",
+        "url": "https://kitsunes.moe",
+        "image": "Vergil.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Dio Brando",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://kitsunes.moe",
+        "image": "Dio.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Ganondorf",
+        "source": "The Legend of Zelda",
+        "url": "http://mugenfreeforall.com/topic/37199-mugen-betting-sites-saltybet-spriteclub-collection-thread/",
+        "image": "Ganondorf.png",
+        "weight": 1
+    },
+    {
+        "name": "Aizen Sōsuke",
+        "source": "Bleach",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=59136-sosuke-aizen-ikaruga",
+        "image": "Aizen.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Shiki Nanaya",
+        "source": "Tsukihime",
+        "url": "https://kitsunes.moe",
+        "image": "nanaya.gif",
+        "weight": 1
+    },
+    {
+        "name": "Susanoo",
+        "source": "BlazBlue",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=56273-susanoo-melty-blood-style-terumen",
+        "image": "Susanoo.gif",
+        "weight": 1
+    },
+    {
+        "name": "Nrvnqsr Chaos",
+        "source": "Tsukihime",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=5322-nrvnqsr-chaos-aacc-",
+        "image": "nero%20chaos.png",
+        "weight": 1
+    },
+    {
+        "name": "Misogi Kumagawa",
+        "source": "Medaka Box",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=12313-kumagawa-misogi-otika",
+        "image": "Misogi%20Kumagawa.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Johnny",
+        "source": "Guilty Gear",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=244-johnny-sfondi-ggxx-r-muteki",
+        "image": "Johnny.png",
+        "weight": 1
+    },
+    {
+        "name": "Merkava",
+        "source": "Under Night In-Birth",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=80399-ai-patch-for-dronekiller-s-merkava-unknown",
+        "image": "merkava.gif",
+        "weight": 1
+    },
+    {
+        "name": "Homura Akemi",
+        "source": "Puella Magi Madoka Magica",
+        "url": "https://kitsunes.moe",
+        "image": "Homura.gif",
+        "weight": 1
+    },
+    {
+        "name": "Demi-Fiend",
+        "source": "Shin Megami Tensei III: Nocturne",
+        "url": "https://kitsunes.moe",
+        "image": "Demi-fiend.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Shulk",
+        "source": "Xenoblade Chronicles",
+        "url": "http://mugenfreeforall.com/topic/37199-mugen-betting-sites-saltybet-spriteclub-collection-thread/",
+        "image": "Shulk.png",
+        "weight": 1
+    },
+    {
+        "name": "Gudako",
+        "source": "Fate/Grand Order",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=108048-lyo-gudako-siitake",
+        "image": "Gudako.png",
+        "weight": 1
+    },
+    {
+        "name": "Miyoshi Karin",
+        "source": "Yuki Yuna is a Hero",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=21861-karin-miyoshi-arumikan",
+        "image": "Miyoshi%20Karin.png",
+        "weight": 1
+    },
+    {
+        "name": "Night of Wallachia",
+        "source": "Melty Blood",
+        "url": "https://kitsunes.moe",
+        "image": "Wallachia.png",
+        "weight": 1
+    },
+    {
+        "name": "Bowser",
+        "source": "Super Mario Bros",
+        "url": "https://kitsunes.moe",
+        "image": "Bowser.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Len",
+        "source": "Tsukihime",
+        "url": "https://kitsunes.moe",
+        "image": "len.gif",
+        "weight": 1
+    },
+    {
+        "name": "Raiden",
+        "source": "Metal Gear Solid",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=25227-raiden-bumble-vin",
+        "image": "raiden.gif",
+        "weight": 1
+    },
+    {
+        "name": "Spiderman",
+        "source": "Spiderman",
+        "url": "https://kitsunes.moe",
+        "image": "spiderman.gif",
+        "weight": 1
+    },
+    {
+        "name": "Toyohime Watatsuki",
+        "source": "Touhou",
+        "url": "https://kitsunes.moe",
+        "image": "watatsuki.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Yorihime Watatsuki",
+        "source": "Touhou",
+        "url": "https://kitsunes.moe",
+        "image": "watatsuki.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Beatrice",
+        "source": "Umineko no Naku Koro ni",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=11413-beatrice-baggy",
+        "image": "beatrice.png",
+        "weight": 1
+    },
+    {
+        "name": "Claudette",
+        "source": "Wonderful World",
+        "url": "http://mugenfreeforall.com/topic/37199-mugen-betting-sites-saltybet-spriteclub-collection-thread/",
+        "image": "claudette.gif",
+        "weight": 1
+    },
+    {
+        "name": "G.I.G.N",
+        "source": "Counter Strike",
+        "url": "http://mugenfreeforall.com/topic/25352-counter-strike/",
+        "image": "gign.gif",
+        "weight": 1
+    },
+    {
+        "name": "Aqua",
+        "source": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=45840-aqua-mer",
+        "image": "aqua.jpg",
+        "weight": 1
+    },
+
+    {
+        "name": "Josuke Joestar",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=63535-josuke-updated-anime-voice-280-",
+        "image": "josuke.gif",
+        "weight": 1
+    },
+    {
+        "name": "IDW",
+        "source": "Girls' Frontline",
+        "url": "http://mugenfreeforall.com/topic/37135-idw-by-rognarok-updated-12232019/",
+        "image": "idw.gif",
+        "weight": 1
+    },
+    {
+        "name": "Deku Midoriya",
+        "source": "Boku no Hero Academia",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=114843-deku-midoriya-3d-mugen-s-world",
+        "image": "deku.gif",
+        "weight": 1
+    },
+    {
+        "name": "Joseph Joestar",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=29293-joseph-joestar-young-nimame",
+        "image": "joseph.gif",
+        "weight": 1
+    },
+    {
+        "name": "Kirito",
+        "source": "Sword Art Online",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=12966-kirito-sennou-room",
+        "image": "kirito.gif",
+        "weight": 1
+    },
+    {
+        "name": "Ruby Rose",
+        "source": "RWBY",
+        "url": "http://mugenfreeforall.com/topic/35639-rwby/",
+        "image": "ruby.gif",
+        "weight": 1
+    },
+    {
+        "name": "Neo Politan",
+        "source": "RWBY",
+        "url": "http://mugenfreeforall.com/topic/35639-rwby/",
+        "image": "neo.gif",
+        "weight": 1
+    },
+    {
+        "name": "Yang Xiao",
+        "source": "RWBY",
+        "url": "http://mugenfreeforall.com/topic/35639-rwby/",
+        "image": "yang.gif",
+        "weight": 1
+    },
+    {
+        "name": "Ichigo Kurosaki",
+        "source": "Bleach",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=106888-ichigo-kurosaki-hd-mugenanimation",
+        "image": "https://kitsunes.moe",
+        "weight": 1
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "source": "Naruto Shippūden",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=40-naruto-kun-youkai",
+        "image": "naruto.gif",
+        "weight": 1
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "source": "Naruto Shippūden",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=41-sasuke-kun-youkai",
+        "image": "sasuke.gif",
+        "weight": 1
+    },
+    {
+        "name": "Luffy",
+        "source": "One Piece",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=45498-monkey-d-luffy-vs-style-kenshiro99",
+        "image": "luffy.gif",
+        "weight": 1
+    },
+    {
+        "name": "Enrico Pucci",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=104072-enrico-pucci-holn-ai-salami",
+        "image": "pucci.png",
+        "weight": 1
+    },
+    {
+        "name": "Giorno Giovanna",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "giorno.gif",
+        "weight": 1
+    },
+    {
+        "name": "Kira Yoshikage",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=123161-kira-yoshikage-",
+        "image": "Kira.png",
+        "weight": 1
+    },
+    {
+        "name": "Mami Tomoe",
+        "source": "Puella Magi Madoka Magica",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=101285-mami-tomoe-geros",
+        "image": "mami.gif",
+        "weight": 1
+    },
+    {
+        "name": "Ange",
+        "source": "Umineko no Naku Koro ni",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=11407-ange-ushiromiya-deer",
+        "image": "ange.gif",
+        "weight": 1
+    },
+    {
+        "name": "Satuzinki",
+        "source": "Touhou, OC based off of Sakuya",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=11208-satuzinki-pre-to",
+        "image": "sakuya.gif",
+        "weight": 1
+    },
+    {
+        "name": "Zero",
+        "source": "Megaman Zero",
+        "url": "https://cdn.discordapp.com/attachments/622534991716286504/696505313662074990/ZERO_WIPz.7z",
+        "image": "zero.gif",
+        "weight": 1
+    },
+    {
+        "name": "Guts Berserk",
+        "source": "Berserk",
+        "url": "https://kitsunes.moe",
+        "image": "guts.gif",
+        "weight": 1
+    },
+    {
+        "name": "Noel Vermillion",
+        "source": "BlazBlue",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=1940-noel-vermillion-speedy9199",
+        "image": "noel2.gif",
+        "weight": 1
+    },
+    {
+        "name": "Forte x Rockman",
+        "source": "Megaman",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=4867-forte-x-rockman-bass-x-megaman-erde-d",
+        "image": "fxr.gif",
+        "weight": 1
+    },
+    {
+        "name": "Seto Kaiba",
+        "source": "Yu-Gi-Oh!.",
+        "url": "https://kitsunes.moe",
+        "image": "kaiba.gif",
+        "weight": 1
+    },
+    {
+        "name": "Misaka Mikoto",
+        "source": "Toaru Majutsu no Index",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "misaka.gif",
+        "weight": 1
+    },
+    {
+        "name": "Dante",
+        "source": "Devil May Cry",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "dante.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Cyborg",
+        "source": "Teen Titans",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "cyborg.gif",
+        "weight": 1
+    },
+    {
+        "name": "Kuroko Shirai",
+        "source": "Toaru Majutsu no Index",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "kuroko.gif",
+        "weight": 1
+    },
+    {
+        "name": "Alucard",
+        "source": "Hellsing",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "alucard.gif",
+        "weight": 1
+    },
+    {
+        "name": "Ragna the Bloodedge",
+        "source": "BlazBlue",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "noel2.gif",
+        "weight": 1
+    },
+    {
+        "name": "Diavolo",
+        "source": "JoJo's Bizarre Adventure",
+        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
+        "image": "diavolo.png",
+        "weight": 1
+    },
+    {
+        "name": "Shantae",
+        "source": "Shantae",
+        "url": "https://kitsunes.moe",
+        "image": "shantae.gif",
+        "weight": 1
+    },
+    {
+        "name": "Sonic the Hedgehog",
+        "source": "Sonic the Hedgehog",
+        "url": "https://kitsunes.moe",
+        "image": "sonic.gif",
+        "weight": 1
+    },
+    {
+        "name": "Nero Claudius",
+        "source": "Fate/Extra",
+        "url": "https://onedrive.live.com/?id=7110B138A0C285BF%21107&cid=7110B138A0C285BF",
+        "image": "nero.png",
+        "weight": 1
+    },
+    {
+        "name": "Random",
+        "source": "nothing.",
+        "url": "https://kitsunes.moe",
+        "image": "wha.gif",
+        "weight": 1
+    }
+    ]
+
+
+

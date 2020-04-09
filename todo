@@ -1,0 +1,19 @@
+add weather dopant
+add sirou
+make fun of smeg
+
+
+data storage will be as followed:
+
+Save: Server ID the command was used from, user ID of the person using the command
+This way, people like smeg can roll in both servers.
+
+
+Structure should be like this:
+
+{
+    server: '1234123'
+    userid: '123123'
+    username: 'smeg'
+    charname: 'weather dopant'
+}
