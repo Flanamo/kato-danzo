@@ -44,16 +44,23 @@
 
     {
         "name": "Kamen Rider Gaim",
-        "source": "Kamen Rider",
+        "source": "Kamen Rider Gaim",
         "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=12904-kamen-rider-gaim-team-gaim",
         "image": "Gaim.jpg",
         "weight": 1
     },
     {
         "name": "Kamen Rider Blade",
-        "source": "Kamen Rider",
+        "source": "Kamen Rider Blade",
         "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=106181-masked-rider-blade-asuka-masaki",
         "image": "Blade.png",
+        "weight": 1
+    },
+    {
+        "name": "Kamen Rider G3-X",
+        "source": "Kamen Rider Agito",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=23870-g3-x-miyaji",
+        "image": "g3x.jpg",
         "weight": 1
     },
     {
@@ -78,10 +85,10 @@
         "weight": 1
     },
     {
-        "name": "Shiki Tohno",
-        "source": "Tsukihime",
-        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=63470-shiki-tohno-rouge-noir",
-        "image": "shiki.png",
+        "name": "Ryougi Shiki",
+        "source": "Kara no Kyoukai",
+        "url": "https://kitsunes.moe",
+        "image": "ryougi.gif",
         "weight": 1
     },
     {
@@ -112,13 +119,7 @@
         "image": "RoboCop.jpg",
         "weight": 1
     },
-    {
-        "name": "Dr Doom",
-        "source": "The Fantastic Four",
-        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=86989-the-real-dr-doom-mshr-infinite",
-        "image": "Dr%20Doom.png",
-        "weight": 1
-    },
+
     {
         "name": "Bernkastel & Lambdadelta",
         "source": "Umineko no Naku Koro ni",
@@ -169,10 +170,10 @@
         "weight": 1
     },
     {
-        "name": "Ganondorf",
-        "source": "The Legend of Zelda",
-        "url": "http://mugenfreeforall.com/topic/37199-mugen-betting-sites-saltybet-spriteclub-collection-thread/",
-        "image": "Ganondorf.png",
+        "name": "Dr Doom",
+        "source": "The Fantastic Four",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=86989-the-real-dr-doom-mshr-infinite",
+        "image": "Dr%20Doom.png",
         "weight": 1
     },
     {
@@ -180,13 +181,6 @@
         "source": "Bleach",
         "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=59136-sosuke-aizen-ikaruga",
         "image": "Aizen.jpg",
-        "weight": 1
-    },
-    {
-        "name": "Shiki Nanaya",
-        "source": "Tsukihime",
-        "url": "https://kitsunes.moe",
-        "image": "nanaya.gif",
         "weight": 1
     },
     {
@@ -275,7 +269,7 @@
     },
     {
         "name": "Len",
-        "source": "Tsukihime",
+        "source": "Melty Blood",
         "url": "https://kitsunes.moe",
         "image": "len.gif",
         "weight": 1
@@ -397,7 +391,7 @@
         "name": "Ichigo Kurosaki",
         "source": "Bleach",
         "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=106888-ichigo-kurosaki-hd-mugenanimation",
-        "image": "https://kitsunes.moe",
+        "image": "ichigo.gif",
         "weight": 1
     },
     {
@@ -541,10 +535,10 @@
         "weight": 1
     },
     {
-        "name": "Diavolo",
-        "source": "JoJo's Bizarre Adventure",
-        "url": "https://www.mediafire.com/folder/eg0rj1ym5wvoq/Mr._Giang_Backup",
-        "image": "diavolo.png",
+        "name": "Godzillen",
+        "source": "edit based off of Len from Melty Blood",
+        "url": "https://kitsunes.moe",
+        "image": "godzillen.gif",
         "weight": 1
     },
     {
@@ -569,13 +563,48 @@
         "weight": 1
     },
     {
+        "name": "Weather Dopant",
+        "source": "Kamen Rider W",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=55919-weather-dopant-heal-the-world",
+        "image": "weather.jpg",
+        "weight": 1
+    },
+    {
+        "name": "Sirou",
+        "source": "Risara",
+        "url": "https://onedrive.live.com/?authkey=%21ANWWAC%2D7MfzGMmE&id=2EB17A76D2375DAC%21729&cid=2EB17A76D2375DAC",
+        "image": "sirou.png",
+        "weight": 1
+    },
+    {
+        "name": "Thanos",
+        "source": "Marvel: The Avengers",
+        "url": "https://mugenarchive.com/forums/downloads.php?do=file&id=67222-thanos-alucard",
+        "image": "thanos.png",
+        "weight": 1
+    },
+    {
         "name": "Random",
-        "source": "nothing.",
+        "source": "nothing",
         "url": "https://kitsunes.moe",
         "image": "wha.gif",
         "weight": 1
+    },
+    {
+        "name": "Shiki Nanaya",
+        "source": "Tsukihime",
+        "url": "https://kitsunes.moe",
+        "image": "nanaya.gif",
+        "weight": 1
+    },
+    {
+        "name": "Ganondorf",
+        "source": "The Legend of Zelda",
+        "url": "http://mugenfreeforall.com/topic/37199-mugen-betting-sites-saltybet-spriteclub-collection-thread/",
+        "image": "Ganondorf.png",
+        "weight": 1
     }
-    ]
+]
 
 
 
